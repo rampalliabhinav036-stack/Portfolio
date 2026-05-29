@@ -72,10 +72,10 @@ const portfolioData = {
       { title: 'Alison Certificate', description: 'Completion of professional online courses in computer science and software engineering concepts', link: 'achivements/alison.jpeg' },
       { title: 'Sphoorthy Achievement', description: 'Recognized for exceptional participation and technical excellence in institutional hackathons and competitions', link: 'achivements/sphoorthy.jpeg' },
       { title: 'Sri Indu Achievement', description: 'Active participation certificate from Sri Indu College for engaging in technical workshops and seminars', link: 'achivements/sri indu .jpeg' },
-      { title: 'Achievement Award', description: 'Outstanding performance recognition for demonstrating exceptional problem-solving and coding skills', link: 'achivements/1772473142711.jpg' },
-      { title: 'Skill Badge', description: 'Professional skill verification badge awarded for demonstrated competency in software development practices', link: 'achivements/{D808E7B7-03F5-4A81-A41E-4A3CC2BB0EEA}.png' },
-      { title: 'Internship Certificate', description: 'Formal completion certificate from professional internship with verified hands-on experience in development and deployment', link: 'achivements/Internship Completion Certificate_1735815519630.pdf' },
-      { title: 'Participant Certificate', description: 'Recognition of active participation and learning in advanced technical workshops and professional development programs', link: 'achivements/ABHINAV-RAMPALLI-Participant-Certificate.pdf' }
+      { title: 'IBM Skills Build', description: 'Outstanding performance recognition for demonstrating exceptional problem-solving and coding skills', link: 'achivements/1772473142711.jpg' },
+      { title: 'Infosys Certificate', description: 'Professional skill verification badge awarded for demonstrated competency in software development practices', link: 'achivements/{D808E7B7-03F5-4A81-A41E-4A3CC2BB0EEA}.png' },
+      { title: 'Elewayted Training Certificate', description: 'Formal completion certificate from professional internship with verified hands-on experience in development and deployment', link: 'achivements/Internship Completion Certificate_1735815519630.pdf' },
+      { title: 'RDBMS Certificate', description: 'Recognition of active participation and learning in advanced technical workshops and professional development programs', link: 'achivements/ABHINAV-RAMPALLI-Participant-Certificate.pdf' }
     ]
   },
   contact: {
